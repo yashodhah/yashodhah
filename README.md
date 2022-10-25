@@ -1,8 +1,8 @@
 - 👋  Hi, I’m Yashodha
 - :computer:  Senior Software Engineer at TrustPayments.
 - :keyboard:  Speaking Java, TypeScript and sometimes JavaScript. 
-- 👀  I’m interested in Cyber Security, Cloud Computing and Enterprise Software Designs
-- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus on AWS
+- 👀  Interested in Cloud Computing, Enterprise Software Designs and Cyber Security
+- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus on AWS - Cloud Service Provider
 - 📫  How to reach me :
 
   :envelope: hettiarachchi.yashodha@gmail.com
