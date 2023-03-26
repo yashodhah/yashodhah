@@ -2,13 +2,7 @@
 - :computer:  Senior Software Engineer at TrustPayments.
 - :keyboard:  Speaking Java, TypeScript and sometimes JavaScript. 
 - 👀  Interested in Cloud Computing, Enterprise Software Designs and Web Security
-- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus is on AWS
-- 📫  How to reach me :
-
-  :envelope: hettiarachchi.yashodha@gmail.com
-  
-  :iphone: +94 71 437 22 86
-  
+- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus is on AWS  
 
 <!---
 yashodhah/yashodhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
