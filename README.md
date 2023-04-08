@@ -2,7 +2,7 @@
 - :computer:  Senior Software Engineer at TrustPayments.
 - :keyboard:  Speaking Java, TypeScript and sometimes JavaScript. 
 - 👀  Interested in Cloud Computing, Enterprise Software Designs and Web Security
-- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus is on AWS  
+- 🌱  Always learning by questioning everything and connectings the missing dots. Current focus is on AWS and specialy on security
 
 <!---
 yashodhah/yashodhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
