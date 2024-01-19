@@ -1,8 +1,8 @@
-- 👋  Hey there, I'm Yashodha
-- :computer:  A Senior Software Engineer at TrustPayments.
-- :keyboard:  My fingers dance to the beat of Java and TypeScript, with occasional tunes in JavaScript. In the process of adding Rust to my playlist.
-- 👀  Interested in Cloud Computing, Enterprise Software Designs/architectures and Web Security
-- 🌱  Firm believer in continuous learning. Current focus is on Ops.
+- 👋  Hi, I'm Yashodha
+- :computer:  Software Engineer at Credit Agricole-CIB.
+- :keyboard:  Fingers dance to the beat of Java, with occasional tunes in JavaScript. In the process of learning Ops.
+- 👀  Interested in Music and any cyber Security
+- 🌱  Firm believer in continuous learning.
 
 <!---
 yashodhah/yashodhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
