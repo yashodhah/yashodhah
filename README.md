@@ -1,7 +1,7 @@
 - 👋  Hi, I'm Yashodha
 - :computer:  Software Engineer at Credit Agricole-CIB.
-- :keyboard:  Fingers dance to the beat of Java, with occasional tunes in JavaScript. In the process of learning Ops.
-- 👀  Interested in Music and any cyber Security
+- :keyboard:  Fingers dance to the beat of Java. In the process of learning Ops.
+- 👀  Interested in Music and any Security.
 - 🌱  Firm believer in continuous learning.
 
 <!---
