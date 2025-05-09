@@ -1,8 +1,7 @@
 - 👋  Hi, I'm Yashodha ( Ya-Sho(w)-the)
-- :computer:  Software Engineer by profession.
-- :keyboard:  Fingers dance to the beat of Java. In the process of learning Ops.
-- 👀  Interested in Music and Security.
-- 🌱  Firm believer in continuous learning. 
+- :computer:  Software Engineer.
+- :keyboard:  Fingers dance to the beat of Java. In the process of learning Platform Engineering.
+- 👀  Interested in Music and Platforms. 
 
 <!---
 yashodhah/yashodhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
