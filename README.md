@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Yashodha (Ya-Sho-Dha),
 - 💻 Software Engineer
-- ⚡ Generation is cheap these days. I'm spending more time reading, thinking, and coming up with ideas. There are generation machines you can subscribe to for $30/month, ideas and curiosity are the real differentiators.
+- ⚡ Generation is cheap these days. I'm spending more time reading, thinking, and coming up with ideas.
 - 🎵 Interested in Music and AI Plumbing.
