@@ -1,4 +1,3 @@
 - 👋 Hi, I'm Yashodha (Ya-Sho-Dha),
 - 💻 Software Engineer
-- ⚡ Generation is cheap these days. I'm spending more time reading, thinking, and coming up with ideas.
 - 🎵 Interested in Music and AI Plumbing.
