@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yashodha (Ya-Sh(-ou)-Dha), short-form YD
+- 👋 Hi, I'm Yashodha (Ya-Sh(-ou)-Dh), short-form YD
 - 💻 Software Engineer
-- 🎵 Interested in Music and "AI" integrations.
+- 🎵 Interested in Music and Platforms..
 
